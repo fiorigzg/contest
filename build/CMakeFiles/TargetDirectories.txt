@@ -1,0 +1,3 @@
+/home/fiornrrn/code/contest/build/CMakeFiles/main.dir
+/home/fiornrrn/code/contest/build/CMakeFiles/edit_cache.dir
+/home/fiornrrn/code/contest/build/CMakeFiles/rebuild_cache.dir
