@@ -1,7 +1,7 @@
 [
 {
   "directory": "/home/fiornrrn/code/contest/build",
-  "command": "/usr/bin/g++   -g -o CMakeFiles/main.dir/main.cpp.o -c /home/fiornrrn/code/contest/main.cpp",
+  "command": "/usr/bin/g++-12   -g -o CMakeFiles/main.dir/main.cpp.o -c /home/fiornrrn/code/contest/main.cpp",
   "file": "/home/fiornrrn/code/contest/main.cpp",
   "output": "CMakeFiles/main.dir/main.cpp.o"
 }
