@@ -67,6 +67,9 @@
     "__split_buffer": "cpp",
     "__tree": "cpp",
     "map": "cpp",
-    "__locale": "cpp"
+    "__locale": "cpp",
+    "queue": "cpp",
+    "fstream": "cpp",
+    "codecvt": "cpp"
   }
 }
