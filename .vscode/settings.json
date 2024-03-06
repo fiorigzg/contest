@@ -70,6 +70,10 @@
     "__locale": "cpp",
     "queue": "cpp",
     "fstream": "cpp",
-    "codecvt": "cpp"
+    "codecvt": "cpp",
+    "set": "cpp",
+    "__node_handle": "cpp",
+    "filesystem": "cpp",
+    "stack": "cpp"
   }
 }
