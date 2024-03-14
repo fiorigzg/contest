@@ -1,1 +1,1 @@
-/usr/bin/g++-12 -g CMakeFiles/main.dir/contest4/main.cpp.o -o main 
+/usr/bin/g++-12 -g CMakeFiles/main.dir/contest5/main.cpp.o -o main 

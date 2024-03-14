@@ -1,8 +1,8 @@
 [
 {
   "directory": "/home/fiornrrn/code/contest/build",
-  "command": "/usr/bin/g++-12   -g -o CMakeFiles/main.dir/contest4/main.cpp.o -c /home/fiornrrn/code/contest/contest4/main.cpp",
-  "file": "/home/fiornrrn/code/contest/contest4/main.cpp",
-  "output": "CMakeFiles/main.dir/contest4/main.cpp.o"
+  "command": "/usr/bin/g++-12   -g -o CMakeFiles/main.dir/contest5/main.cpp.o -c /home/fiornrrn/code/contest/contest5/main.cpp",
+  "file": "/home/fiornrrn/code/contest/contest5/main.cpp",
+  "output": "CMakeFiles/main.dir/contest5/main.cpp.o"
 }
 ]

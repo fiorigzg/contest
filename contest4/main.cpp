@@ -107,7 +107,6 @@ void printWorkers(const std::vector<Worker>& workers)
 }
 
 
-// TODO: put the full path to the given file tasks_workers.txt in your system
 const char* DATA_FILE_NAME = "files/tasks_workers.txt";
 
 // reads and prints data

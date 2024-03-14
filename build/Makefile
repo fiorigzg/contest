@@ -129,29 +129,29 @@ main/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/build
 .PHONY : main/fast
 
-contest4/main.o: contest4/main.cpp.o
-.PHONY : contest4/main.o
+contest5/main.o: contest5/main.cpp.o
+.PHONY : contest5/main.o
 
 # target to build an object file
-contest4/main.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/contest4/main.cpp.o
-.PHONY : contest4/main.cpp.o
+contest5/main.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/contest5/main.cpp.o
+.PHONY : contest5/main.cpp.o
 
-contest4/main.i: contest4/main.cpp.i
-.PHONY : contest4/main.i
+contest5/main.i: contest5/main.cpp.i
+.PHONY : contest5/main.i
 
 # target to preprocess a source file
-contest4/main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/contest4/main.cpp.i
-.PHONY : contest4/main.cpp.i
+contest5/main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/contest5/main.cpp.i
+.PHONY : contest5/main.cpp.i
 
-contest4/main.s: contest4/main.cpp.s
-.PHONY : contest4/main.s
+contest5/main.s: contest5/main.cpp.s
+.PHONY : contest5/main.s
 
 # target to generate assembly for a file
-contest4/main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/contest4/main.cpp.s
-.PHONY : contest4/main.cpp.s
+contest5/main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/contest5/main.cpp.s
+.PHONY : contest5/main.cpp.s
 
 # Help Target
 help:
@@ -162,9 +162,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... main"
-	@echo "... contest4/main.o"
-	@echo "... contest4/main.i"
-	@echo "... contest4/main.s"
+	@echo "... contest5/main.o"
+	@echo "... contest5/main.i"
+	@echo "... contest5/main.s"
 .PHONY : help
 
 
