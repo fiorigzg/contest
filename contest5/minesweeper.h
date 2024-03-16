@@ -64,7 +64,7 @@ private:
             {
                 for (int dy = -1; dy <= 1; ++dy)
                 {
-                    if (0 <= row + dx && row + dx < ColumnsCount && 0 <= column + dy && column + dy < RowsCount && Table[row + dx][column + dy] == -1)
+                    if (0 <= row + dx && row + dx < RowsCount && 0 <= column + dy && column + dy < ColumnsCount && Table[row + dx][column + dy] == -1)
                     {
                         ++counter;
                     }
