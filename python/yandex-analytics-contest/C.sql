@@ -1,0 +1,1 @@
+SELECT IIF(is_main = TRUE or id = 1) * FROM advertising_companies
